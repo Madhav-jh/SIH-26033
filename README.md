@@ -31,10 +31,7 @@ AgriConnect is a digital marketplace designed to connect farmers and Farmer Prod
 Farmers can register on the platform and upload details about their products, quantities, quality, and prices. Consumers and bulk buyers can browse available products and place orders directly from farmers.
 
 The platform uses Artificial Intelligence (AI) to forecast product demand, suggest suitable prices, and identify efficient delivery routes. It also provides logistics support to ensure that agricultural products reach buyers on time.
-
-![Uploading AgriConnect Smart Farm-to-Consumer Flow.png…]()
-
-
+<img width="1536" height="1024" alt="AgriConnect Smart Farm-to-Consumer Flow" src="https://github.com/user-attachments/assets/0252049a-177d-48d4-8c0c-de714945ce78" />
 
 ## Technical Approach
 Frontend: HTML, CSS and JavaScript.
