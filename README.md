@@ -34,6 +34,8 @@ The platform uses Artificial Intelligence (AI) to forecast product demand, sugge
 
 ![Uploading AgriConnect Smart Farm-to-Consumer Flow.png…]()
 
+
+
 ## Technical Approach
 Frontend: HTML, CSS and JavaScript.
 Backend: Python with Flask.
